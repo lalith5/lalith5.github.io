@@ -1,0 +1,53 @@
+# Site
+repository: lalith5/lalith5.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Lalith Reddy
+title: Desktop Platform Engineer
+email: lalith@kernalinc.com
+website: https://lalith5.github.io
+
+# Social links
+twitter_username: LalithReddy
+github_username:  lalith5
+instagram_username: isankee
+linkedin_username: lalith-reddy-3b53258a
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Lalith and I'm a Desktop Platoform Engineer working at Bank of New Zealand (BNZ Auckland). As well as administrating systems I also have experience and knowledge in SCCM, PowerShell, Office 365 and Azure. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>Office 365</mark>, <mark>Windows Server</mark> and <mark>Windows desktop ecosystem</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and systems engineering some of my other interests and hobbies are:
+   - Traveling
+   - Cooking
+   - Health and Fitness
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

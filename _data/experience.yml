@@ -1,0 +1,55 @@
+- layout: left
+  company: Bank of New Zealand (Auckland)
+  link: https://www.bnz.co.nz/
+  job_title: Desktop Platform Engineer
+  dates: January 2018 - Present
+  description: | 
+    - Operating Systems: Windows – XP, Vista, 7, 8, Server 2008R2, Linux – Centos, Mint, Ubuntu, Red Hat Linux and Mac    
+    - Networking: LAN, WAN, Cisco routers & Switches, Sub-netting, AD DS, VLAN
+    - Implementing GPOs and Active Directory infrastructure key areas   
+    - Configuring users and user accounts within Active Directory    
+    - Protocols: TCP/IP, DHCP, DNS, IPv4, IPv6, FTP
+    - Hardware: PC assembly, trouble shooting, desktop support, upgrading PC components, servicing and maintenance of desktops, Configuring printers and scanners, adding RAM
+    - Knowledge on VoIP, Cloud and Virtualization environment
+
+- layout: left
+  company: ECL Group Ltd (Wellington)
+  link: https://www.eclgroup.co.nz
+  job_title: Technical Systems Analyst
+  dates: Aug 2015 – Dec 2017
+  description: | 
+    - Providing Support and Managing Fuel Applications and Fuel Servers running on Windows Platforms 
+    - Troubleshooting Network Issues on Fuel Sites    
+    - Configuring Maintaining and Troubleshooting Cisco Switches
+    - Resolving Clients Remotely Via Terminal Server, Cisco VPN tool, VNC Tool 
+    - Monitoring the Network using SecureMe and Nagios Application   
+    - Troubleshooting Client User issues over Phone related to Fuel Site's Software issues, Application control and System updates  
+    - SQL Database Management and Repair    
+    - Work closely with SME's to enhance my skills continuously
+
+- layout: left
+  company: Gonerd IT Services (Wellington)
+  job_title: IT Support
+  dates: Aug 2013 – Aug 2015
+  description: | 
+    - IT support for the Barclay’s Premier League
+    - Solving client queries regarding live game online and support
+    - Troubleshooting issues, problem solving methods via phone calls
+    - Assistance to clients with live game charts and troubleshooting network issues
+    - Online ticketing system and support
+    - Providing support for internal and external users using remote desktop software
+    - Recording and documenting user calls and scenarios for constant improvement of IT infrastructure
+    - Logging client issues and managing entries within the calls history and solution database
+    - Analyzing media streaming problems and support
+    - Documenting stream bugs and support
+
+- layout: left
+  company: Remark IT Solutions (Christchurch)
+  job_title: IT Tech
+  dates: Jun 2013 – Aug 2013
+  description: | 
+    - Configuring Cisco switches with base configuration
+    - Maintaining and gathering all the inventory required
+    - Regular basis equipment upgrading and maintenance
+    - Imaging new PCs with MDT and installed Windows 7, Windows 8
+    - Troubleshooting issues at client site and assistance staff in learning new technologies
